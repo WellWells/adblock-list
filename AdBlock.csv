@@ -1,4 +1,4 @@
-### Update:20210709
+### Update:20210710
 @@||*.dl.delivery.mp.microsoft.com^$important
 @@||*.lync.com^$important
 @@||*.skype.com^$important
@@ -35,6 +35,7 @@
 @@||us.l.qq.com^
 @@||vbtrax.com^
 @@||wl.spotify.com^$important
+@@||wns.windows.com^$important
 @@||www.google-analytics.com^
 ||023hysj.com^
 ||04ee395e5b8a076c7bd8592851ff8cad.com^
@@ -721,7 +722,6 @@
 ||ebz.io^
 ||ecpmrocks.com^
 ||edgefcs.net^
-||edgesuite.net^
 ||effectivemeasure.net^
 ||eimi.com.tw^
 ||ektezis.ru^
