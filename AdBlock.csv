@@ -1,4 +1,4 @@
-### Update:20210710
+### Update:20210710-2
 @@||*.dl.delivery.mp.microsoft.com^$important
 @@||*.lync.com^$important
 @@||*.skype.com^$important
@@ -12,27 +12,18 @@
 @@||edge.activity.windows.com^$important
 @@||edge-enterprise.activity.windows.com^$important
 @@||fp.msedge.net^$important
-@@||gdt.qq.com^
 @@||gtimg.cn^
-@@||ii.gdt.qq.com^
-@@||ios.rqd.qq.com^
 @@||klook.com^
-@@||mdt.qq.com^
 @@||msedge.api.cdp.microsoft.com^$important
 @@||msedge.b.tlu.dl.delivery.mp.microsoft.com^$important
-@@||oth.str.mdt.qq.com^
 @@||pgdt.gtimg.cn^
-@@||rpt.gdt.qq.com^
 @@||s1.wp.com^$important
-@@||sdk.e.qq.com^$important
 @@||self.events.data.microsoft.com^$important
 @@||shopback.go2cloud.org^
 @@||ssl.google-analytics.com^
 @@||ssl-google-analytics.l.google.com^
-@@||tangram.e.qq.com^
 @@||teams.events.data.microsoft.com^$important
 @@||tr.iadsdk.apple.com^$important
-@@||us.l.qq.com^
 @@||vbtrax.com^
 @@||wl.spotify.com^$important
 @@||wns.windows.com^$important
@@ -69,7 +60,6 @@
 ||71.am^
 ||7box.vip^
 ||88-f.net^
-||a.6d47c1118927cf53ba9654931df80e8d.com^
 ||a.76674bdad304297eda3d325f449f6f49.com^
 ||a.a-p-i.io^
 ||a.dc8c4e64942bae1e5bf8e5214e0185b6.com^
@@ -117,8 +107,6 @@
 ||ad.pchome.com.tw^
 ||ad.period-calendar.com^
 ||ad.prismamediadigital.com^
-||ad.qq.com^
-||ad.qun.qq.com^
 ||ad.smaad.jp^
 ||ad.unwire.hk^
 ||ad.vrvm.com^
@@ -231,15 +219,12 @@
 ||adotmob.com^
 ||adotsolution.com^
 ||adotube.com^
-||adping.qq.com^
 ||adplatform.vrtcal.com^
 ||adplex.co.kr^
-||adpm.app.qq.com^
 ||adprotected.com^
 ||adpublisher.s3.amazonaws.com^
 ||adpxl.co^
 ||adquota.com^
-||adrdir.qq.com^
 ||ads.auctions.yahoo.com^
 ||ads.cricbuzz.com^
 ||ads.feedly.com^
@@ -259,7 +244,6 @@
 ||ads-bidder-api.twitter.com^
 ||adscale.de^
 ||ads-chunks.prod.ihrhls.com^
-||adsclick.qq.com^
 ||adsdk.vrvm.com^
 ||adsee.jp^
 ||adserver.asiatatler.com^
@@ -272,15 +256,9 @@
 ||adserver.yahoo.com^
 ||adservice.google.com.tw^
 ||adservice.google.com^
-||adsfile.qq.com^
-||adsgroup.qq.com^
-||adshmct.qq.com^
-||adshmmsg.qq.com^
 ||adshost2.com^
 ||adsinstant.com^
 ||adslot.uc.cn^
-||adslvfile.qq.com^
-||adslvseed.qq.com^
 ||adsmo.ru^
 ||adsmogo.mobi^
 ||adsmogo.net^
@@ -291,16 +269,12 @@
 ||adspending01.bwnet.com.tw^
 ||adspirit.de^
 ||adspynet.com^
-||adsqqclick.qq.com^
 ||adsrvmedia.net^
 ||adsrvr.org^
-||adstextview.qq.com^
 ||ad-stir.com^
 ||ads-twitter.com^
 ||adsunflower.com^
 ||ads-union.jd.com^
-||adsview.qq.com^
-||adsview2.qq.com^
 ||adswizz.com^
 ||adsymptotic.com^
 ||adtaily.pl^
@@ -314,12 +288,10 @@
 ||adtrack.king.com^
 ||adultadworld.com^
 ||adups.com^
-||adv.app.qq.com^
 ||adv.ettoday.net^
 ||adv.f1.com.tw^
 ||adv.mxmcdn.net^
 ||adver.com.tw^
-||adver.qq.com^
 ||adversal.com^
 ||adverticum.net^
 ||advertise.com^
@@ -375,7 +347,6 @@
 ||ampiri.com^
 ||amplitude.com^
 ||ams.rmcnmv.naver.com^
-||analy.qq.com^
 ||analysys.cn^
 ||analytics.agoda.com^
 ||analytics.query.yahoo.com^
@@ -384,7 +355,6 @@
 ||analytics.yahoo.com^
 ||analyze.yahooapis.com^
 ||andomedia.com^
-||android.rqd.qq.com^
 ||anlirada.com^
 ||aolcdn.com^
 ||aosunsc.com^
@@ -476,7 +446,6 @@
 ||bc.yahoo.com^
 ||bcebos.com^
 ||bcfads.com^
-||beacon.qq.com^
 ||beacon.search.yahoo.com^
 ||beacon.shazam.com^
 ||beaconinside.com^
@@ -519,7 +488,6 @@
 ||btrll.com^
 ||bttn.io^
 ||bubblesmedia.ru^
-||bugly.qq.com^
 ||burstnet.com^
 ||buzzad.io^
 ||buzzcity.net^
@@ -528,8 +496,6 @@
 ||buzzhand.org^
 ||buzzonclick.com^
 ||buzzworld.tech^
-||c.gdt.qq.com^
-||c.gj.qq.com^
 ||c.vrvm.com^
 ||c00.adobe.com^
 ||c1exchange.com^
@@ -587,7 +553,6 @@
 ||cloudfront-labs.amazonaws.com^
 ||cloudmobi.net^
 ||cls.vrvm.com^
-||cm.e.qq.com^
 ||cmcm.com^
 ||cmonitor.iqiyi.com^
 ||cmp-cdn.ghostery.com^
@@ -658,13 +623,11 @@
 ||cydia-app.com^
 ||cydiadownloaders.com^
 ||cydiafree.com^
-||d.gdt.qq.com^
 ||d17m68fovwmgxj.cloudfront.net^
 ||d1zkodo2u3p4pe.cloudfront.net^
 ||d2nrdy2pg3k168.cloudfront.net^
 ||d31qbv1cthcecs.cloudfront.net^
 ||d32z5ni8t5127x.cloudfront.net^
-||d3g.qq.com^
 ||d3uvwl4wtkgzo1.cloudfront.net^
 ||d60y8cj1tje2a.cloudfront.net^
 ||d830x8j3o1b2k.cloudfront.net^
@@ -700,7 +663,6 @@
 ||doubleclick.net^
 ||doublemax.net^
 ||download.autodesk.com^
-||download.sj.qq.com^
 ||dpstack.com^
 ||drift.com^
 ||driftt.com^
@@ -716,7 +678,6 @@
 ||dyntrk.com^
 ||dzpu6za66svjl.cloudfront.net^
 ||e.apsalar.com^
-||e.qq.com^
 ||e2elog.fetnet.net^
 ||easytomessage.com^
 ||ebz.io^
@@ -893,7 +854,6 @@
 ||hyperadx.com^
 ||hypers.com.cn^
 ||hypers.com^
-||i.gdt.qq.com^
 ||i.mxplayer.j2inter.com^
 ||i2.myapkcdn.in^
 ||i2ad.jp^
@@ -947,7 +907,6 @@
 ||intowow.com^
 ||investingchannel.com^
 ||ios.api^
-||ios.bugly.qq.com^
 ||iosusdeveloper.com^
 ||ip-api.com^
 ||ipify.org^
@@ -969,7 +928,6 @@
 ||iu6xoulkc1.execute-api.us-east-1.amazonaws.com^
 ||i-vengo.com^
 ||izooto.com^
-||j.wit.qq.com^
 ||javacript.gq^
 ||jb51.net^
 ||jeepxie.net^
@@ -982,13 +940,11 @@
 ||jmp9.com^
 ||jpush.cn^
 ||jpush.io^
-||jqmt.qq.com^
 ||js.mobojoy.baidu.com^
 ||js4386.fujianryt.com^
 ||jsc.marketgid.com^
 ||jscount.com^
 ||jsonip.com^
-||jsqmt.qq.com^
 ||juiceadv.com^
 ||jumptap.com^
 ||justad.mobi^
@@ -1110,13 +1066,11 @@
 ||metavertising.com^
 ||mgage.com^
 ||m-goshopback.vn^$important
-||mi.gdt.qq.com^
 ||miaozhen.com^
 ||microad.jp^
 ||microad.net^
 ||miidii.tech^
 ||millennialmedia.com^
-||mini2015.qq.com^
 ||mintegral.com^
 ||mixadvert.com^
 ||mixmarket.biz^
@@ -1168,7 +1122,6 @@
 ||mofox.com^
 ||mojiva.com^
 ||mologiq.net^
-||monitor.uu.qq.com^
 ||mookie1.com^
 ||moptt.azurewebsites.net^
 ||moptt.blob.core.windows.net^
@@ -1247,8 +1200,6 @@
 ||oclasrv.com^
 ||oconner.biz^
 ||oiaenx.com^
-||omgmta.qq.com^
-||omgmta1.qq.com^
 ||omoplant.com^
 ||oms.expedia.com^
 ||omtrdc.net^
@@ -1274,9 +1225,6 @@
 ||optinmonster.com^
 ||origtek.com^
 ||os.scmpacdn.com^
-||oth.eve.mdt.qq.com^
-||oth.str.mdt.qq.com^
-||oth.update.mdt.qq.com^
 ||outbrain.com^
 ||outreach.io^
 ||overgoods.tw^
@@ -1306,8 +1254,6 @@
 ||phluant.com^
 ||phpwind.com^
 ||pinger.com^
-||pingjs.qq.com^
-||pingma.qq.com^
 ||pingstart.com^
 ||pippio.com^
 ||piwik.cool3c.com^
@@ -1368,7 +1314,6 @@
 ||pvmax.net^
 ||pw.lpsxssm.com^
 ||pw^
-||q.i.gdt.qq.com^
 ||qcloud.com^
 ||qgss8.com^
 ||qihoo.com^
@@ -1376,7 +1321,6 @@
 ||qiniucdn.com^
 ||qmksync.appspot.com^
 ||qoojyk.com^
-||qqshow2-item.qq.com^
 ||qservz.com^
 ||quaintcan.com^
 ||qualtrics.com^
@@ -1415,7 +1359,6 @@
 ||richpays.com^
 ||riskified.com^
 ||rjfun.com^
-||rm.gdt.qq.com^
 ||robocat.me^
 ||rotaban.ru^
 ||rtapi.abbi.io^
@@ -1438,13 +1381,11 @@
 ||saymedia.com^
 ||sb.scorecardresearch.com^
 ||sc.smardroid.com^
-||scdown.qq.com^
 ||scorecardresearch.com^
 ||scroll.com^
 ||scupio.com^
 ||sdad.guru^
 ||sdk.adtiming.com^
-||sdk.e.qq.com^
 ||sdk.starbolt.io^
 ||searchad.naver.com^
 ||searchapi.agoda.com^
@@ -1466,7 +1407,6 @@
 ||serving-sys.com^
 ||sessionm.com^
 ||setn.com^
-||setting.snswin.qq.com^
 ||sexpennyauctions.com^
 ||share.baidu.com^
 ||shareasale.com^
@@ -1506,7 +1446,6 @@
 ||smilered.com^
 ||snackly.co^
 ||snapmobile.asia^
-||sngmta.qq.com^
 ||snnd.co^
 ||so.com^
 ||socdm.com^
@@ -1567,16 +1506,12 @@
 ||syndication.openapi.naver.com^
 ||syndication.trafficreps.com^
 ||syndication.twitter.com^
-||t.gdt.qq.com^
-||t.sj.qq.com^
 ||t3q7af0z.com^
-||ta.qq.com^
 ||taboola.com^
 ||tagboard.com^
 ||tagcommander.com^
 ||tags.bkrtx.com^
 ||taiwan-gifts.com^
-||tajs.qq.com^
 ||tamedia.com.tw^
 ||tanx.com^
 ||tapad.com^
@@ -1594,7 +1529,6 @@
 ||taptapnetworks.com^
 ||taptica.com^
 ||targetspot.com^
-||tcss.qq.com^
 ||tddmp.com^
 ||teads.tv^
 ||tealiumiq.com^
@@ -1622,7 +1556,6 @@
 ||tinywhale.net^
 ||tiqcdn.com^
 ||tizerclik.com^
-||tj.video.qq.com^
 ||tlink.io^
 ||tm1.hoiplay.com^
 ||tnkfactory.com^
@@ -1694,7 +1627,6 @@
 ||unityads.unity3d.com^
 ||univision.com^
 ||update.delivery.autodesk.com^
-||updatecenter.qq.com^
 ||uprimp.com^
 ||upsight.com^
 ||upsight-api.com^
@@ -1711,7 +1643,6 @@
 ||uvnimg.com^
 ||uwenku.com^
 ||uyunad.com^
-||v.gdt.qq.com^
 ||valshara.com^
 ||vbtrax.com^
 ||vdn3.vzuu.com^
@@ -1722,8 +1653,6 @@
 ||vi.ai^
 ||vidassets.terminus.services^$important
 ||vidasys.ru^
-||video.ureport.push.qq.com^
-||video.wap.mpush.qq.com^
 ||videoapi.manhuaren.com^
 ||videoplayerhub.com^
 ||videost.nmv.naver.com^
@@ -1754,7 +1683,6 @@
 ||vungle.com^
 ||vzuu.com^
 ||waiads.com^
-||wap.mpush.qq.com^
 ||wap-click.com^
 ||wapstart.ru^
 ||waust.at^
@@ -1772,7 +1700,6 @@
 ||where.com^
 ||widespace.com^
 ||widget.clutch.co^
-||win.gdt.qq.com^
 ||wip3.adobe.com^
 ||wishpond.com^
 ||wlvpn.com^
@@ -1783,7 +1710,6 @@
 ||wordego.com^
 ||wrating.com^
 ||wrinkads.com^
-||ws.sj.qq.com^
 ||wtraff.com^
 ||wurfl.io^
 ||wwis-dubc1-vip60.adobe.com^
