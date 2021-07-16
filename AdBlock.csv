@@ -1,22 +1,32 @@
-### Update:20210710-2
+### Update:20210716
+/\.(xxx|one|shop|biz|top|xxx|bid|vip|club)$/
+/lineme/
+/youtube[a-zA-Z]+/
 @@||*.dl.delivery.mp.microsoft.com^$important
 @@||*.lync.com^$important
 @@||*.skype.com^$important
 @@||*.teams.microsoft.com^$important
+@@||360buyimg.com^$important
 @@||adsmind.gdtimg.com^
 @@||affiliate.api.rakuten.com.tw^
 @@||affiliate.klook.com^
+@@||alicdn.com^$important
+@@||a-ring.msedge.net^$important
 @@||b-ring.msedge.net^$important
 @@||click.redditmail.com^$important
 @@||dashboard-01.braze.com^$important
 @@||edge.activity.windows.com^$important
 @@||edge-enterprise.activity.windows.com^$important
 @@||fp.msedge.net^$important
+@@||googleapis.com^$important
 @@||gtimg.cn^
 @@||klook.com^
+@@||line.biz^$important
 @@||msedge.api.cdp.microsoft.com^$important
 @@||msedge.b.tlu.dl.delivery.mp.microsoft.com^$important
 @@||pgdt.gtimg.cn^
+@@||prf.hn^$important
+@@||qq.com^$important
 @@||s1.wp.com^$important
 @@||self.events.data.microsoft.com^$important
 @@||shopback.go2cloud.org^
@@ -24,10 +34,12 @@
 @@||ssl-google-analytics.l.google.com^
 @@||teams.events.data.microsoft.com^$important
 @@||tr.iadsdk.apple.com^$important
+@@||tracking.shopback.com^$important
 @@||vbtrax.com^
 @@||wl.spotify.com^$important
 @@||wns.windows.com^$important
 @@||www.google-analytics.com^
+@@||youtubei.googleapis.com^$important
 ||023hysj.com^
 ||04ee395e5b8a076c7bd8592851ff8cad.com^
 ||101com.com^
@@ -354,7 +366,6 @@
 ||analyze.yahooapis.com^
 ||andomedia.com^
 ||anlirada.com^
-||aolcdn.com^
 ||aosunsc.com^
 ||aotter.net^
 ||ap.smardroid.com^
@@ -424,6 +435,7 @@
 ||autodwg.com^
 ||avazunativeads.com^
 ||avazutracking.net^
+||avividai.com^$important
 ||avocarrot.com^
 ||awltovhc.com^
 ||axonix.com^
@@ -763,7 +775,6 @@
 ||fyeds2.com^
 ||fyeds3.com^
 ||fyeds4.com^
-||g.live.com^
 ||gameanalytics.com^
 ||ganon.yahoo.com^
 ||gdn.bigfishgames.com^
@@ -878,6 +889,7 @@
 ||i-mobile.co.jp^
 ||improvedigital.com^
 ||imrworldwide.com^
+||imyfone.com^$important
 ||inclk.com^
 ||infolinks.com^
 ||ingamesads.gameloft.com^
@@ -996,6 +1008,7 @@
 ||liftdna.com^
 ||liftoff.io^
 ||ligatus.com^
+||likr.tw^$important
 ||links.services.disqus.com^
 ||linksynergy.com^
 ||listat.biz^
@@ -1144,7 +1157,6 @@
 ||mxttrf.com^
 ||mydas.mobi^
 ||myinfotopia.com^
-||myqcloud.com^
 ||myshopback.co.th^
 ||myshopify.com^
 ||mystat-in.net^
@@ -1534,6 +1546,7 @@
 ||teepr.com^
 ||telemetryverification.net^
 ||tenmax.io^
+||tenorshare.com^$important
 ||teracreative.com^
 ||terraclicks.com^
 ||tevezcan.com^
@@ -1610,6 +1623,7 @@
 ||u1hw38x0.com^
 ||u-ad.info^
 ||uat1.bfsspadserver.8le8le.com^
+||ubt.eztravel.dev^$important
 ||ucfunnel.com^
 ||uciservice.com^
 ||udc-service.mathworks.com^
@@ -1700,6 +1714,7 @@
 ||widget.clutch.co^
 ||wip3.adobe.com^
 ||wishpond.com^
+||wixsite.com^$important
 ||wlvpn.com^
 ||wmhlch.com^
 ||wnewshop.com^
