@@ -1,11 +1,13 @@
-### Update:20210716
+### Update:20210721
 /\.(xxx|one|shop|biz|top|xxx|bid|vip|club)$/
+/kanhkmoov|haokanhd|123movie|stream-.*?\.org|cinema.*?\.xyz|hotstream.*?\.com/
 /lineme/
 /youtube[a-zA-Z]+/
 @@||*.dl.delivery.mp.microsoft.com^$important
 @@||*.lync.com^$important
 @@||*.skype.com^$important
 @@||*.teams.microsoft.com^$important
+@@||012.tw^$important
 @@||360buyimg.com^$important
 @@||adsmind.gdtimg.com^
 @@||affiliate.api.rakuten.com.tw^
@@ -40,6 +42,7 @@
 @@||wns.windows.com^$important
 @@||www.google-analytics.com^
 @@||youtubei.googleapis.com^$important
+||*1080*.tumblr.com^
 ||023hysj.com^
 ||04ee395e5b8a076c7bd8592851ff8cad.com^
 ||101com.com^
@@ -65,6 +68,7 @@
 ||3lift.com^
 ||4favo.com^
 ||4paradigm.com^
+||50union.com^
 ||51.la^
 ||51yes.com^
 ||5917buy.vip^
@@ -87,7 +91,6 @@
 ||accengage.com^
 ||accounts.autodesk.com^
 ||aclickoooo.host^
-||acs4baichuan.m.taobao.com^
 ||activate.adobe.com^
 ||activate.southrivertech.com^
 ||activate-sea.adobe.com^
@@ -137,10 +140,6 @@
 ||adadapted.com^
 ||adadvisor.net^
 ||adap.tv^
-||adashbc.m.taobao.com^
-||adashbc.ut.taobao.com^
-||adashx.m.taobao.com^
-||adashxgc.ut.taobao.com^
 ||adback.tango.me^
 ||adbert.com.tw^
 ||adbertech.com^
@@ -330,7 +329,6 @@
 ||afgr4.com^
 ||afl.rakuten.co.jp^
 ||ahd.ruten.com.tw^
-||ai.m.taobao.com^
 ||ai-analytics.biz^
 ||aiphonebot.com^
 ||airpay.in.ah^
@@ -513,7 +511,6 @@
 ||c3.myapkcdn.in^
 ||c8.net.ua^
 ||cacafly.net^
-||c-adash.m.taobao.com^
 ||cadreon.s3.amazonaws.com^
 ||callsaver.cc^
 ||campaigns.apps-connects.com^
@@ -652,6 +649,8 @@
 ||data.microsoft.com^
 ||data.rd.adlocus.com^
 ||datatheorem.com^
+||dbankcdn.com^
+||dbankcloud^
 ||dc.altamob.com^
 ||dc.altmob.com^
 ||dcocsp.cn^
@@ -836,6 +835,7 @@
 ||hicloud.com^
 ||hilltopads.com^
 ||himediads.com^
+||hinative.com^
 ||histats.com^
 ||hittail.com^
 ||hklocalpress.com^
@@ -1041,7 +1041,6 @@
 ||ma-code.ru^
 ||mad.mobisky.pl^
 ||madadsmedia.com^
-||m-adash.m.taobao.com^
 ||madnet.ru^
 ||madnetex.com^
 ||mads.bz^
@@ -1438,7 +1437,6 @@
 ||signin.techsmith.com^
 ||silvermob.com^
 ||simpleact.com.tw^
-||sinaimg.cn^
 ||singular.net^
 ||sitebro.net^
 ||sitebro.tw^
