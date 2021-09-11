@@ -1,8 +1,4 @@
 ### Update:20210823
-/\.(xxx|one|shop|biz|top|bid|vip|club|xyz)$/
-/kanhkmoov|haokanhd|123movie|stream-.*?\.org|cinema.*?\.xyz|hotstream.*?\.com/
-/lineme/
-/youtube[a-zA-Z]+/
 @@||*.dl.delivery.mp.microsoft.com^$important
 @@||*.lync.com^$important
 @@||*.skype.com^$important
@@ -19,10 +15,12 @@
 @@||fp.msedge.net^$important
 @@||googleapis.com^$important
 @@||gtimg.cn^
+@@||landian.vip^$important
 @@||lens.zhihu.com^$important
 @@||line.biz^$important
 @@||msedge.api.cdp.microsoft.com^$important
 @@||msedge.b.tlu.dl.delivery.mp.microsoft.com^$important
+@@||s1-filecr.xyz^
 @@||s1.wp.com^$important
 @@||sci.bban.top^$important
 @@||self.events.data.microsoft.com^$important
@@ -32,10 +30,15 @@
 @@||teams.events.data.microsoft.com^$important
 @@||tr.iadsdk.apple.com^$important
 @@||vdn*.vzuu.com^$important
+@@||wc4.net^$important
 @@||wl.spotify.com^$important
 @@||wns.windows.com^$important
 @@||www.google-analytics.com^
 @@||youtubei.googleapis.com^$important
+/\.(xxx|one|shop|biz|top|bid|vip|club|xyz)$/
+/kanhkmoov|haokanhd|123movie|stream-.*?\.org|cinema.*?\.xyz|hotstream.*?\.com/
+/lineme/
+/youtube[a-zA-Z]+/
 ||*1080*.tumblr.com^
 ||023hysj.com^
 ||04ee395e5b8a076c7bd8592851ff8cad.com^
@@ -91,7 +94,6 @@
 ||activate.southrivertech.com^
 ||activation.cloud.techsmith.com^
 ||activation.cyberlink.com^
-||ad*.nownews.com^
 ||ad-brix.com^
 ||ad-creatives-public.commondatastorage.googleapis.com^
 ||ad-ettoday.cdn.hinet.net^
@@ -128,6 +130,7 @@
 ||ad.vrvm.com^
 ||ad.weplayer.cc^
 ||ad.xiaomi.com^
+||ad*.nownews.com^
 ||ad120m.com^
 ||ad127m.com^
 ||ad132m.com^
@@ -1056,7 +1059,6 @@
 ||mintegral.com^
 ||mixadvert.com^
 ||mixmarket.biz^
-||mixpanel.com^
 ||mlt01.com^
 ||mmcdn.cn^
 ||mmnetwork.mobi^
@@ -1751,7 +1753,6 @@
 ||zjailbreak.com^
 ||zoglafi.info^
 ||zoosnet.net^
-||zopim.com^
 ||zotabox.com^
 ||zrtianxia.com^
 ||zzhengre.com^
