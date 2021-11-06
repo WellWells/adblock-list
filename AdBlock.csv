@@ -22,6 +22,7 @@
 @@||msedge.b.tlu.dl.delivery.mp.microsoft.com^$important
 @@||s1-filecr.xyz^
 @@||s1.wp.com^$important
+@@||s2-download.xyz^$important
 @@||sci.bban.top^$important
 @@||self.events.data.microsoft.com^$important
 @@||ssl-google-analytics.l.google.com^
@@ -35,7 +36,7 @@
 @@||wns.windows.com^$important
 @@||www.google-analytics.com^
 @@||youtubei.googleapis.com^$important
-/\.(xxx|one|shop|biz|top|bid|vip|club|xyz)$/
+/\.(xxx|one|shop|biz|top|bid|vip|club|xyz|pro|blog|lol|xxx)$/
 /kanhkmoov|haokanhd|123movie|stream-.*?\.org|cinema.*?\.xyz|hotstream.*?\.com/
 /lineme/
 /youtube[a-zA-Z]+/
@@ -346,6 +347,7 @@
 ||analytics.yahoo.com^
 ||analyze.yahooapis.com^
 ||andomedia.com^
+||android-mod.com^
 ||anlirada.com^
 ||aosunsc.com^
 ||aotter.net^
@@ -931,7 +933,6 @@
 ||jwpltx.com^
 ||kaffnet.com^
 ||kamibox.de^
-||kaspersky.com^
 ||kavanga.ru^
 ||keydot.net^
 ||kiip.me^
@@ -1079,6 +1080,7 @@
 ||mobile.pipe.aria.microsoft.com^
 ||mobile333.com^
 ||mobileads.msn.com^
+||mobileai.net^$important
 ||mobileanalytics.us-east-1.amazonaws.com^
 ||mobileapptracking.com^
 ||mobilebanner.ru^
@@ -1378,7 +1380,6 @@
 ||semijb.com^
 ||serve-sys.com^
 ||servebom.com^
-||service.maxymiser.net^
 ||services.mathworks.com^
 ||serving-sys.com^
 ||sessionm.com^
@@ -1516,6 +1517,7 @@
 ||terraclicks.com^
 ||tevezcan.com^
 ||tgnmyh.com^
+||thefriendstracker.com^$important
 ||thepornstudy.com^
 ||theship.club^
 ||thetimmedia.com^
@@ -1545,7 +1547,6 @@
 ||totalmediasolutions.com^
 ||tpbid.com^
 ||tr.iadsdk.apple.com^
-||tr.line.me^
 ||track.91app.io^
 ||track.atom-data.io^
 ||track.cpatool.net^
