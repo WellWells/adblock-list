@@ -1,4 +1,4 @@
-### Update:2021_11_06
+### Update:2022_02_07
 @@||*.dl.delivery.mp.microsoft.com^$important
 @@||*.lync.com^$important
 @@||*.skype.com^$important
@@ -7,19 +7,27 @@
 @@||360buyimg.com^$important
 @@||a-ring.msedge.net^$important
 @@||alicdn.com^$important
+@@||app.powerbi.com^$important
 @@||b-ring.msedge.net^$important
+@@||clash.razord.top^$important
 @@||click.redditmail.com^$important
 @@||dashboard-01.braze.com^$important
+@@||deya.shop^$important
 @@||edge-enterprise.activity.windows.com^$important
 @@||edge.activity.windows.com^$important
+@@||edu.pl^$important
+@@||fontshub.pro^$important
 @@||fp.msedge.net^$important
 @@||googleapis.com^$important
 @@||gtimg.cn^
+@@||icecat.biz^$important
 @@||landian.vip^$important
 @@||lens.zhihu.com^$important
 @@||line.biz^$important
 @@||msedge.api.cdp.microsoft.com^$important
 @@||msedge.b.tlu.dl.delivery.mp.microsoft.com^$important
+@@||oa.tr.line.me^$important
+@@||pgyy.vip^$important
 @@||s1-filecr.xyz^
 @@||s1.wp.com^$important
 @@||s2-download.xyz^$important
@@ -29,14 +37,21 @@
 @@||ssl.google-analytics.com^
 @@||surveycake.biz^$important
 @@||teams.events.data.microsoft.com^$important
+@@||techmoon.xyz^$important
 @@||tr.iadsdk.apple.com^$important
+@@||type.cyhsu.xyz^$important
 @@||vdn*.vzuu.com^$important
 @@||wc4.net^$important
+@@||weibo.cn^$important
+@@||weibo.com^$important
 @@||wl.spotify.com^$important
 @@||wns.windows.com^$important
 @@||www.google-analytics.com^
+@@||www.medpartner.club^$important
+@@||www.userscript.zone^$important
+@@||www.youtubekids.com^$important
 @@||youtubei.googleapis.com^$important
-/\.(xxx|one|shop|biz|top|bid|vip|club|xyz|pro|blog|lol|xxx)$/
+/\.(xxx|one|shop|biz|top|bid|vip|club|xyz|pro|blog|lol|today|tools|tires|tips|win|wtf|zone|zero|fun|live)$/
 /kanhkmoov|haokanhd|123movie|stream-.*?\.org|cinema.*?\.xyz|hotstream.*?\.com/
 /lineme/
 /youtube[a-zA-Z]+/
@@ -71,7 +86,6 @@
 ||51yes.com^
 ||5917buy.vip^
 ||6sc.co^
-||71.am^
 ||7box.vip^
 ||88-f.net^
 ||a.76674bdad304297eda3d325f449f6f49.com^
@@ -348,6 +362,7 @@
 ||analyze.yahooapis.com^
 ||andomedia.com^
 ||android-mod.com^
+||androidiostip.com^
 ||anlirada.com^
 ||aosunsc.com^
 ||aotter.net^
@@ -704,7 +719,6 @@
 ||fastmap33.com^
 ||fateui.com^
 ||fbiavip.com^
-||fc.yahoo.com^
 ||fiksu.com^
 ||files-0-adsnew.babyhome.com.tw^
 ||files-1-adsnew.babyhome.com.tw^
@@ -722,6 +736,7 @@
 ||fluentmobile.com^
 ||flurry.cachefly.net^
 ||flurry.com^
+||fluxpools.net^$important
 ||flyertown.ca^
 ||flygo.ru^
 ||fmpub.net^
@@ -933,6 +948,7 @@
 ||jwpltx.com^
 ||kaffnet.com^
 ||kamibox.de^
+||kang-tach.com^
 ||kavanga.ru^
 ||keydot.net^
 ||kiip.me^
@@ -1140,6 +1156,7 @@
 ||nativead.s3.amazonaws.com^
 ||nativex.com^
 ||nearbyad.com^
+||nearbyme.io^$important
 ||nend.net^
 ||netavenir.com^
 ||netseer.com^
@@ -1433,7 +1450,6 @@
 ||sp-prod.net^
 ||sp.naver.com^
 ||sp0.baidu.com^
-||sp88.tw^
 ||speedcurve.com^
 ||speee-ad.akamaized.net^
 ||splash.appsgeyser.com^
@@ -1516,6 +1532,7 @@
 ||teracreative.com^
 ||terraclicks.com^
 ||tevezcan.com^
+||texch.net^
 ||tgnmyh.com^
 ||thefriendstracker.com^$important
 ||thepornstudy.com^
@@ -1702,6 +1719,7 @@
 ||www.googleadservices.com^
 ||www.onead.com^
 ||www.techsmith.com^
+||www.wondershare.net^
 ||x-udn.inventorycdn.com^
 ||xdrig.com^
 ||ximad.com^
