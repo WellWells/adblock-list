@@ -71,7 +71,7 @@
 @@||www.userscript.zone^$important
 @@||www.youtubekids.com^$important
 @@||youtubei.googleapis.com^$important
-/\.(xxx|one|shop|biz|top|bid|vip|club|xyz|pro|blog|lol|lv|today|tools|tires|tips|win|wtf|zone|zero|fun|live)$/
+/\.(xxx|one|shop|biz|top|bid|vip|club|xyz|pro|blog|lol|lv|today|tools|tires|tips|win|wtf|zone|zero|fun|live|la)$/
 /\w+gov\.tw/
 /kanhkmoov|haokanhd|123movie|stream-.*?\.org|cinema.*?\.xyz|hotstream.*?\.com/
 /lineme/
