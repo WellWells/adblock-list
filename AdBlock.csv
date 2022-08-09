@@ -1,4 +1,4 @@
-### Update:2022_04_13
+### Update:2022_08_09
 @@||*.dl.delivery.mp.microsoft.com^$important
 @@||*.lync.com^$important
 @@||*.skype.com^$important
@@ -23,6 +23,8 @@
 @@||edu.pl^$important
 @@||fontshub.pro^$important
 @@||fp.msedge.net^$important
+@@||github.blog^$important
+@@||giuliaboggio.xyz^$important
 @@||go2cloud.org^$important
 @@||googleapis.com^$important
 @@||gtimg.cn^
@@ -32,9 +34,14 @@
 @@||lens.zhihu.com^$important
 @@||line.biz^$important
 @@||meteor.today^$important
+@@||mobileai.net^$important
 @@||msedge.api.cdp.microsoft.com^$important
 @@||msedge.b.tlu.dl.delivery.mp.microsoft.com^$important
+@@||neal.fun^$important
+@@||nidin.shop^$important
 @@||oa.tr.line.me^$important
+@@||onelink.me^$important
+@@||pdf.bban.top^$important
 @@||pgyy.vip^$important
 @@||rezio.shop^$important
 @@||s1-filecr.xyz^
@@ -51,6 +58,7 @@
 @@||techmoon.xyz^$important
 @@||tr.iadsdk.apple.com^$important
 @@||type.cyhsu.xyz^$important
+@@||uncut.wtf^$important
 @@||vdn*.vzuu.com^$important
 @@||wc4.net^$important
 @@||weibo.cn^$important
@@ -63,7 +71,8 @@
 @@||www.userscript.zone^$important
 @@||www.youtubekids.com^$important
 @@||youtubei.googleapis.com^$important
-/\.(xxx|one|shop|biz|top|bid|vip|club|xyz|pro|blog|lol|today|tools|tires|tips|win|wtf|zone|zero|fun|live)$/
+/\.(xxx|one|shop|biz|top|bid|vip|club|xyz|pro|blog|lol|lv|today|tools|tires|tips|win|wtf|zone|zero|fun|live)$/
+/\w+gov\.tw/
 /kanhkmoov|haokanhd|123movie|stream-.*?\.org|cinema.*?\.xyz|hotstream.*?\.com/
 /lineme/
 /youtube[a-zA-Z]+/
@@ -1417,6 +1426,7 @@
 ||qmksync.appspot.com^
 ||qoojyk.com^
 ||qservz.com^
+||qstarlife.com^$important
 ||quaintcan.com^
 ||qualtrics.com^
 ||quant-fin.com^
@@ -1519,7 +1529,6 @@
 ||shopback.com.au^
 ||shopback.ph^
 ||shopback.sg^
-||shopeetw.onelink.me^
 ||shoplytics.com^
 ||shorte.st^
 ||show.niqiu99.org^
@@ -1589,6 +1598,7 @@
 ||stats.wp.com^
 ||stg.truvidplayer.com^
 ||stickyadstv.com^
+||stocknewstock.com^$important
 ||stompebi.link^
 ||straas.net^
 ||stripe.com^
@@ -1843,6 +1853,7 @@
 ||www.googleadservices.com^
 ||www.itaiwanfood.com^
 ||www.mathworks.com^$client='HomeServer'
+||www.motokmall.com^$important
 ||www.onead.com^
 ||www.techsmith.com^
 ||www.wondershare.net^
