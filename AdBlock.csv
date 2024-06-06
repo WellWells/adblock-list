@@ -1,4 +1,5 @@
-### Update:2024_06_02
+### Update:2024_06_06
+/\.(xxx|one|shop|biz|top|bid|vip|club|xyz|pro|blog|lol|lv|today|tools|tires|tips|win|wtf|zone|zero|fun|live|la)$/
 @@||*.dl.delivery.mp.microsoft.com^$important
 @@||*.lync.com^$important
 @@||*.skype.com^$important
@@ -123,7 +124,6 @@
 @@||xubiaosunny.top^$important
 @@||yasukozoekao.wixsite.com^$important
 @@||yelleis.top^$important
-/\.(xxx|one|shop|biz|top|bid|vip|club|xyz|pro|blog|lol|lv|today|tools|tires|tips|win|wtf|zone|zero|fun|live|la)$/
 /\w+gov\.tw/
 /kanhkmoov|haokanhd|123movie|stream-.*?\.org|cinema.*?\.xyz|hotstream.*?\.com/
 /lineme/
@@ -703,7 +703,6 @@
 ||cpactions.com^
 ||cpmrocket.com^
 ||cpmstar.com^
-||cpro.baidustatic.com^
 ||cpxinteractive.com^
 ||crasheye.cn^
 ||crashlytics.com^
@@ -720,7 +719,6 @@
 ||crossrider.com^
 ||crwdcntrl.net^
 ||cryptobulls-ap.net^
-||csi.gstatic.com^
 ||ct.pinterest.com^
 ||ctl.buyt.in^
 ||currency.town^
@@ -784,7 +782,6 @@
 ||duba.com^
 ||dumedia.ru^
 ||duomai.com^
-||dup.baidustatic.com^
 ||dwgsee.com^
 ||dynamicmobilecreative.com^
 ||dyntrk.com^
@@ -1113,7 +1110,6 @@
 ||kinesisanalytics.us-east-2.amazonaws.com^
 ||kinesisanalytics.us-west-2.amazonaws.com^
 ||king56.net^
-||kinja-static.com^
 ||kiosked.com^
 ||kiwihk.net^
 ||kknews.cc^
@@ -1351,7 +1347,6 @@
 ||novostimira.biz^
 ||noy90o.com^
 ||npttech.com^
-||nsstatic.net^
 ||nt.compass-fit.jp^
 ||nudevista.tw^
 ||numbers.md^
@@ -1666,7 +1661,6 @@
 ||stat.stheadline.com^
 ||stat.zol.com.cn^
 ||statcounter.com^
-||static.clmbtech.com^
 ||stats.gc.apple.com^
 ||stats.karere.mega.nz^
 ||stats.unity3d.com^
