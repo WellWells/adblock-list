@@ -1,4 +1,4 @@
-### Update:2024_11_27
+### Update:2025_02_13
 /\.(xxx|one|shop|biz|top|bid|vip|club|xyz|pro|blog|lol|lv|today|tools|tires|tips|win|wtf|zone|zero|fun|live|la)$/
 @@||*.dl.delivery.mp.microsoft.com^$important
 @@||*.lync.com^$important
