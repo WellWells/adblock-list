@@ -2031,10 +2031,6 @@
 @@||s.youtube.com^$important
 @@||returnyoutubedislikeapi.com^$important
 ||sentry.io^$important
-||xhscdn.com^$important
-||xiaohongshu.com^$important
-||xiaohongshu.com.qtlcdn.com.cdnmg.com^$important
-||xiaohongshu.com.w.kunlunsl.com^$important
 @@||wcy.wtf^$important
 ||http-inputs-notion.splunkcloud.com^$important
 ||notion.splunkcloud.com^$important
