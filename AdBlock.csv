@@ -1,5 +1,5 @@
-### Update:2025_02_13
-/\.(xxx|one|shop|biz|top|bid|vip|club|xyz|pro|blog|lol|lv|today|tools|tires|tips|win|wtf|zone|zero|fun|live|la)$/
+### Update:2025_12_18
+/\.(xxx|one|shop|store|biz|top|bid|vip|club|xyz|pro|blog|lol|lv|today|tools|tires|tips|win|wtf|zone|zero|fun|live|la|xin|bond|cfd|icu|cyou|sbs|qpon|uno|pw|buzz|click|ink|pics|pub|red|lat|living)$/
 @@||*.dl.delivery.mp.microsoft.com^$important
 @@||*.lync.com^$important
 @@||*.skype.com^$important
@@ -2050,3 +2050,4 @@
 ||in.appcenter.ms^$important
 @@||gdlink.dev^$important
 @@||neolinks.cfd^$important
+
