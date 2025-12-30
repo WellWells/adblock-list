@@ -1,4 +1,4 @@
-### Update:2025_12_18
+### Update:2025_12_31
 /\.(xxx|one|shop|store|biz|top|bid|vip|club|xyz|pro|blog|lol|lv|today|tools|tires|tips|win|wtf|zone|zero|fun|live|la|xin|bond|cfd|icu|cyou|sbs|qpon|uno|pw|buzz|click|ink|pics|pub|red|lat|living)$/
 @@||*.dl.delivery.mp.microsoft.com^$important
 @@||*.lync.com^$important
@@ -11,7 +11,6 @@
 @@||996.icu^$
 @@||a-ring.msedge.net^$important
 @@||affiliate.api.rakuten.com.tw^$important
-@@||alicdn.com^$important
 @@||app.powerbi.com^$important
 @@||applefans.today^$important
 @@||auth.d114.top^$important
@@ -26,7 +25,6 @@
 @@||clash.razord.top^$important
 @@||click.redditmail.com^$important
 @@||cmi.hanwckf.top^$important
-@@||communityfile-drcn.op.hicloud.com^$important
 @@||dashboard-01.braze.com^$important
 @@||deya.shop^$important
 @@||edge-enterprise.activity.windows.com^$important
@@ -126,7 +124,6 @@
 /kanhkmoov|haokanhd|123movie|stream-.*?\.org|cinema.*?\.xyz|hotstream.*?\.com/
 /lineme/
 /youtube[a-zA-Z]+/
-||*1080*.tumblr.com^
 ||023hysj.com^
 ||04ee395e5b8a076c7bd8592851ff8cad.com^
 ||101com.com^
@@ -416,9 +413,7 @@
 ||aitype.net^
 ||aka-money.net^
 ||akoues.com^
-||alb.reddit.com^
 ||alexametrics.com^
-||alicdn.com^
 ||alimama.cn^
 ||alimama.com^
 ||altitude-arena.com^
@@ -464,9 +459,6 @@
 ||appboy.eu^
 ||appclick.co^
 ||appclick.net^
-||appcloud.zhihu.com^
-||appcloud2.in.zhihu.com^
-||appcloud2.zhihu.com^
 ||appfireworks.com^
 ||appflood.com^
 ||appier.com^
@@ -945,7 +937,6 @@
 ||help.autodesk.com^
 ||herewetest.com^
 ||heyzap.com^
-||hicloud.com^
 ||hilltopads.com^
 ||himediads.com^
 ||hinative.com^
@@ -1191,7 +1182,6 @@
 ||maudau.com^
 ||maxaishop.com^
 ||maxwinote.com^
-||mb-cdn.stocard.de^
 ||mbn.com.ua^
 ||mdotm.com^
 ||measuread.com^
@@ -1296,7 +1286,6 @@
 ||mxttrf.com^
 ||mydas.mobi^
 ||myinfotopia.com^
-||myshopback.co.th^
 ||mystat-in.net^
 ||mythings.com^
 ||n-ws.org^
@@ -1474,12 +1463,10 @@
 ||pvmax.net^
 ||pw.lpsxssm.com^
 ||pw^
-||qcloud.com^
 ||qgss8.com^
 ||qiangwaikan.com^$important
 ||qihoo.com^
 ||qingwuda.com^
-||qiniucdn.com^
 ||qmksync.appspot.com^
 ||qoojyk.com^
 ||qservz.com^
@@ -1638,7 +1625,6 @@
 ||ssp.hinet.net^
 ||ssphwy.com^
 ||stackoom.com^
-||staging.myshopback.co.th^
 ||stalner.com^
 ||startappexchange.com^
 ||startappnetwork.com^
@@ -2049,5 +2035,6 @@
 ||in.appcenter.ms^$important
 @@||gdlink.dev^$important
 @@||neolinks.cfd^$important
+
 
 
